@@ -5,7 +5,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/edsonottoni/edsonottoni/blob/output/github-contribution-grid-snake.svg)
+![Snake_animation](https://github.com/edsonottoni/edsonottoni/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there 👋
 #### My name is Edson Ottoni, 
