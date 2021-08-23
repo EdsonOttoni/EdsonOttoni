@@ -1,6 +1,8 @@
 <div>
+  <a>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edsonottoni&hide=prs,issues,contribs&theme=vue-dark&show_icons=true&count_private=true">  
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonottoni&layout=compact&theme=vue-dark">
+  </a>
 </div>
 
 ![Snake_animation](https://github.com/edsonottoni/edsonottoni/blob/output/github-contribution-grid-snake.svg)
