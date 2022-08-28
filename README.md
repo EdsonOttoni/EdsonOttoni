@@ -10,5 +10,5 @@
 ### Hi there 👋
 #### My name is Edson Ottoni, 
 
-- 🌱 I’m currently learning React Native, Node.js and Kotlin.
+- 🌱 I’m currently learning React Native, Node.js.
 - 📫 How to reach me: https://www.linkedin.com/in/edson-ottoni/
