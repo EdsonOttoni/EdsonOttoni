@@ -1,14 +1,13 @@
-<div>
-  <a href="https://github.com/EdsonOttoni/">
-    <img height="130em"  src="https://github-readme-stats.vercel.app/api?user=edsonottoni&hide=prs,issues,contribs&theme=vue-dark&show_icons=true&count_private=true"> 
-    <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonottoni&layout=compact&theme=vue-dark">
-  </a>
-</div>
-
-![Snake_animation](https://github.com/edsonottoni/edsonottoni/blob/output/github-contribution-grid-snake.svg)
-
+<!-- Inicio -->
 ### Hi there 👋
-#### My name is Edson Ottoni, 
+#### My name is Edson Ottoni,
+#
 
-- 🌱 I’m currently learning React Native, Node.js.
-- 📫 How to reach me: https://www.linkedin.com/in/edson-ottoni/
+<!-- Badges -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-ottoni/)
+
+<!-- Grafico de status -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonottoni&show_icons=true&theme=transparent)
+
+<!-- gráfico da cobrinha -->
+![Snake_animation](https://github.com/edsonottoni/edsonottoni/blob/output/github-contribution-grid-snake.svg)
