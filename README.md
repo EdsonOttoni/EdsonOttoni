@@ -1,8 +1,6 @@
+
 <!-- Inicio -->
-<h1>
-  Hi there 👋 <br>
-  <h2> My name is Edson Ottoni! <h2>
-<h1>
+  # Hi there 👋 <br> My name is Edson Ottoni!
 
 <!-- Badges Social -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-ottoni/)
