@@ -17,5 +17,3 @@
   <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </div><br/>
 
-<!-- gráfico da cobrinha -->
-![Snake_animation](https://github.com/edsonottoni/edsonottoni/blob/output/github-contribution-grid-snake.svg)
