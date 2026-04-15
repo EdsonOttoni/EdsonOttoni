@@ -19,4 +19,4 @@
 
 
 
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edsonottoni/edsonottoni/blob/output/github-contribution-grid-snake.svg)
